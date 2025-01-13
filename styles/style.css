@@ -72,4 +72,28 @@ body {
     border: none;
     margin-top: 32px;
 }
+
+main {
+    width: 80%;
+    background-color: wheat;
+    margin: 0 auto;
+    text-align: center;
+    padding: 80px;
+}
+
+
+.box1 {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 48px;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 4px 4px 8px gray;
+    text-align: justify;
+}
+
+/* .box1-left {
+    text-align: left;
+} */
   
